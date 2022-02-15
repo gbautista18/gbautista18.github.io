@@ -4,7 +4,6 @@ type: essay
 title: Performing WODs technical  
 # All dates must be YYYY-MM-DD format!
 date: 2022-02-15
-labels:
 ---
 https://dport96.github.io/ITM352/morea/050.variables_data_types/experience-SmartPhoneProducts1_variables.html
 For this WOD I had to continue working and adding onto my previous smartphoneproducts by changing some of the information for the displays. This WOD took me two tries with an Rx time. I noticed that I do everything manually but I don't mind it, however I do know that there is an easier way to input the codes. Something that I will try different next time is doing the shortcut way instead of manually typing it myself because this will also help me to prevent any mistakes that may occur.  
