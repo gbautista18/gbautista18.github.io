@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Performing WODs technical  
+title: E3:Performing WODs technical  
 # All dates must be YYYY-MM-DD format!
 date: 2022-02-15
 ---
